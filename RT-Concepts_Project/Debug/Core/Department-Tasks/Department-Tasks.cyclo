@@ -1,0 +1,4 @@
+../Core/Department-Tasks/Department-Tasks.c:32:6:ExecuteMission	4
+../Core/Department-Tasks/Department-Tasks.c:52:6:PoliceTasks	6
+../Core/Department-Tasks/Department-Tasks.c:105:6:AmbulanceTasks	6
+../Core/Department-Tasks/Department-Tasks.c:160:6:FireDepTasks	6

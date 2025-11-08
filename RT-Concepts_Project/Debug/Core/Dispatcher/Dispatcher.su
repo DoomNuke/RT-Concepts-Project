@@ -1,0 +1,4 @@
+../Core/Dispatcher/Dispatcher.c:21:6:Status	144	static
+../Core/Dispatcher/Dispatcher.c:43:13:DepartmentIDtoString	16	static
+../Core/Dispatcher/Dispatcher.c:54:12:Take_Car	168	static
+../Core/Dispatcher/Dispatcher.c:110:6:Dispatcher	128	static
